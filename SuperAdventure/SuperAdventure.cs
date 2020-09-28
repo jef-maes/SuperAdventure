@@ -19,7 +19,11 @@ namespace SuperAdventure
 
         private void btnTest_Click(object sender, EventArgs e)
         {
+<<<<<<< HEAD
             lblGold.Text = "999";
+=======
+            lblGold.Text = "420";
+>>>>>>> a1426d4561d917db503f0b8915974e92ca3344f7
         }
     }
 }
